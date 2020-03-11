@@ -1,5 +1,7 @@
 #My First Post
+
 ##About the calibration property of logistc regression
+
 When I study classification machine learning models, I always ask myself how we define a good classifier?
 Good accuracy rate? Not true, especially for unbalanced data
 Precision and Recall?Not true, cause we manipulate this metrics by changing the threshold.
